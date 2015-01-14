@@ -1,0 +1,19 @@
+package org.institutoserpis.ed;
+
+public class busqueda {
+
+	public static void main(String[] args) {
+		
+		int [] v = new int[] { 45, 33, 6 ,15, 7};
+	
+	}
+	
+	public static void SelectionSort(int[] v) {	// 
+		
+		for (int i = 0; i < v.length; i++){
+						
+			
+		}
+	}
+
+}
